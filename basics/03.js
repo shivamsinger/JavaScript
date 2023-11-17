@@ -1,6 +1,6 @@
 // Rules for naming variable 
 
-// you cannot start wuth Number
+// you cannot start with Number
 // Example--
 
 // var 1value  = 10
